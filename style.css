@@ -1,4 +1,4 @@
-@font-face{font-family:Qatar;src:url("fonts/qatar-medium.ttf") format("truetype");font-display:swap}
+@font-face{font-family:Qatar;src:url("qatar-medium.ttf") format("truetype");font-display:swap}
 *{box-sizing:border-box;margin:0;padding:0}html{scroll-behavior:smooth}
 body{font-family:Qatar,Arial,sans-serif;background:#05060a;color:#f5f7ff;overflow-x:hidden}
 a{text-decoration:none;color:inherit}.bg-grid{position:fixed;inset:0;pointer-events:none;opacity:.16;background-image:linear-gradient(#6f79ff18 1px,transparent 1px),linear-gradient(90deg,#6f79ff18 1px,transparent 1px);background-size:52px 52px;mask-image:linear-gradient(#000,transparent 82%)}
